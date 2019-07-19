@@ -25,11 +25,11 @@ These are the main differences compared to a [Pixracer](../flight_controller/pix
 * Standard racer form factor: 36x36 mm with standard 30.5 mm hole pattern
 * MPU6000 Accel / Gyro
 * BMP280 Baro (not all boards have it mounted)
-* microSD (logging and parameters)
+* microSD (for logging)
 * Futaba S.BUS and S.BUS2 / Spektrum DSM2 and DSMX / Graupner SUMD / PPM input / Yuneec ST24
 * OneShot PWM out (configurable)
 * built-in current sensor
-* built-in OSD chip (AB7456 via SPI, not supported yet)
+* built-in OSD chip (AB7456 via SPI)
 
 
 ## Where to Buy
